@@ -1,0 +1,22 @@
+{
+  "name": "meseeker-node-tutorial",
+  "version": "1.0.0",
+  "description": "A brief tutorial on using Node.js with Meeseeker.",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vheissu/meseeker-node-tutorial.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vheissu/meseeker-node-tutorial/issues"
+  },
+  "homepage": "https://github.com/Vheissu/meseeker-node-tutorial#readme",
+  "dependencies": {
+    "ioredis": "^4.6.2"
+  }
+}
